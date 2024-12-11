@@ -1,7 +1,5 @@
 # Terenis
-## A digital twin of field crops
-
-We model field crops 🌾 to quantify the impact of weather ⛈️🌤️ on agricultural production 🚜.
+## Agricultural intelligence you can trust.
 
 Interested? Visit our [website](https://terensis.io) our [drop us a message](mailto:info@terensis.io).
 
